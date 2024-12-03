@@ -32,5 +32,5 @@ Sou apaixonado por desenvolver projetos e participar de colaborações que desaf
 ## 👥 **Conecte-se Comigo**  
 
 - **E-mail:** migueladp33@gmail.com  
-- **LinkedIn:** [Miguel Dias](https://linkedin.com/in/migueladp33)  
+- **LinkedIn:** [Miguel Dias](https://www.linkedin.com/in/miguel-dias-77405b326?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)  
 
