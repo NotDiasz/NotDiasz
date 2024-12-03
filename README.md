@@ -29,6 +29,13 @@ Sou apaixonado por desenvolver projetos e participar de colaborações que desaf
 
 ---
 
+## 📊 Estatísticas de Linguagens no GitHub
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NotDiasz&langs_count=10&layout=compact&theme=radical" alt="Estatísticas de Linguagens" />
+</div>
+
+
 ## 👥 **Conecte-se Comigo**  
 
 - **E-mail:** migueladp33@gmail.com  
