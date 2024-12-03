@@ -29,15 +29,6 @@ Sou apaixonado por desenvolver projetos e participar de colaborações que desaf
 
 ---
 
-## 📈 **GitHub Stats**  
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=migueladp33&show_icons=true&theme=radical&count_private=true&hide=stars" alt="Miguel's GitHub stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=migueladp33&layout=compact&theme=radical" alt="Miguel's most used languages" />
-</div>  
-
----
-
 ## 👥 **Conecte-se Comigo**  
 
 - **E-mail:** migueladp33@gmail.com  
