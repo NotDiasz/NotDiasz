@@ -32,8 +32,9 @@ Sou apaixonado por desenvolver projetos e participar de colaborações que desaf
 ## 📊 Estatísticas de Linguagens no GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NotDiasz&langs_count=10&layout=compact&theme=radical" alt="Estatísticas de Linguagens" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NotDiasz&langs_count=20&layout=compact&theme=radical" alt="Linguagens mais usadas" />
 </div>
+
 
 
 ## 👥 **Conecte-se Comigo**  
