@@ -35,8 +35,13 @@ I am passionate about developing projects and collaborating on initiatives that 
 ## 📊 GitHub Language Stats  
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NotDiasz&langs_count=20&layout=compact&theme=radical" alt="Most Used Languages" />
+  <img 
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=NotDiasz&langs_count=20&layout=compact&theme=radical&hide_border=true&card_width=500" 
+       alt="Most Used Languages" 
+       style="border-radius: 10px;" 
+  />
 </div>
+
 
 ---
 
