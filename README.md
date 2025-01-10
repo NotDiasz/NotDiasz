@@ -36,7 +36,7 @@ I am passionate about developing projects and collaborating on initiatives that 
 
 <div align="center">
   <img 
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=NotDias
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=NotDiasz
        alt="Most Used Languages" 
        style="border-radius: 10px;" 
   />
