@@ -51,7 +51,7 @@
 <img alt="Node.js" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
 <img alt="Express" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg">
 <img alt="React" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-<img alt="TailwindCSS" height="40" src="https://raw.githubusercontent.com/tailwindlabs/tailwindcss/HEAD/.github/logo-light.svg">
+<img alt="TailwindCSS" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg">
 <img alt="Sequelize" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sequelize/sequelize-original.svg">
 <img alt="Jest" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg">
 
@@ -61,7 +61,7 @@
 <img alt="SQL Server" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg">
 
 ### Blockchain:
-<img alt="Ethereum" height="40" src="https://cryptologos.cc/logos/ethereum-eth-logo.svg?v=024">
+<img alt="Ethereum" height="40" src="https://upload.wikimedia.org/wikipedia/commons/0/01/Ethereum_logo_translucent.svg">
 <img alt="Solidity" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg">
 
 ### Tools:
