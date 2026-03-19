@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FFFF&size=35&center=true&vCenter=true&width=1000&theme=dracula&lines=Developer+at+Uniube!+%F0%9F%91%8B;I'm+Miguel+Eustáquio;Back-end+%2F+Full-stack+Pleno;Adept+in+Java+%2F+C#+%2F+Web3+%F0%9F%90%B8;Let's+build+secure+and+scalable+solutions!)](https://git.io/typing-svg)
 
 <div align="center" style="display: flex; align-items: center; justify-content: center;">
-    <img src="https://github.com/NotDiasz/NotDiasz/blob/main/Greninja_.gif" height="100%" width="100%"/>
+    <img src="https://github.com/NotDiasz/NotDiasz/blob/main/Greninja_.gif" height="50%" width="50%"/>
   <div style="display: flex;">
     <h6>"Passionate about creating scalable systems and dedicated to giving my best in every line of code.<br> Currently studying Systems Analysis and Development at UNIUBE, <br>with a focus on back-end, Web3, and turning complex challenges into high-performance solutions.<br>\"A master has failed more times than the beginner has even tried.\"."</b></h6>
   </div>
